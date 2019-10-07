@@ -1,12 +1,11 @@
 Dark-FB v1.7
 
-Username : asulokentod
-Password : rezatampans
+Username : boimganteng
+Password : accaccacc
 
 pkg install python2
 pkg install git
-git clone https://github.com/rezadkim/dark-fb
-cd dark-fb
+git clone https://github.com/Boim88/DARK
 pip2 install requests
 pip2 install mechanize
 python2 dark.py
